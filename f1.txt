@@ -1,0 +1,5 @@
+from ubuntu:latest
+maintainer aanand 48
+run "echo" 8080:8080
+copy "echo" cp maven-web-app/target/my-web-app.war apache.tomcat.jar 1.02../webapps/
+expose"echo"  "8080"
