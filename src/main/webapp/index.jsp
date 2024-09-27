@@ -7,7 +7,8 @@
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
   <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
-<h2> call us 8839914556/8234847915 </h2>  
+  <h2> call us 8839914556/8234847915 </h2>  
+  <h3> email:- aanandmahajan123@gmail.com</h3>
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 
 
